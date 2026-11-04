@@ -1,0 +1,8 @@
+{
+  "name": "Megasnem",
+  "description": "Megasnem — Mensageiro transparente e moderno com Assistente de IA para revisão de mensagens, sugestões inteligentes e análise da conversa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
